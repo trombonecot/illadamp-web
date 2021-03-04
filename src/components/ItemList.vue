@@ -44,6 +44,14 @@ export default {
   padding-bottom: 30px;
 }
 
+@media (max-width: 500px) {
+  .item {
+    display: block
+  }
+}
+
+
+
 .imatge {
   min-width: 250px;
 }
@@ -51,6 +59,11 @@ export default {
 .imatge img {
   width: 100%;
 }
+
+
+
+
+
 .date {
     font-size: 9pt;
 }

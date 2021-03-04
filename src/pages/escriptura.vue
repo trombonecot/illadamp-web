@@ -4,7 +4,7 @@
     <h1>Escriptura</h1>
 
     <ItemList 
-      src="/public/portada-babieca.png"
+      src="/portada-babieca.png"
       title="Constelació Babieca"
       type="Novelette"
       date="maig 2016"

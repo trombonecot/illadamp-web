@@ -4,16 +4,16 @@
     <h1>Rol</h1>
 
     <ItemList 
-      src="/public/crashpanda.png"
+      src="/crashpanda.png"
       title="Crash Pandas"
       type="joc de rol"
       date="desembre 2020"
       text="Genial sistema per qui tingui ganes d'un divertit one-shot sobre ossos rentadors en una carrera de cotxes il·legals a Los Angeles! Escrit per Grant Howitt. Traducció al català feta per Eduard Cot Ros."
-      link="/public/crash-pandas-cat.pdf"
+      link="/crash-pandas-cat.pdf"
       />
     
     <ItemList 
-      src="/public/bernat-revern.jpg"
+      src="/bernat-revern.jpg"
       title="La maledicció d'en Bernat Revern"
       type="aventura Cthulhu d100"
       date="Properament disponible"

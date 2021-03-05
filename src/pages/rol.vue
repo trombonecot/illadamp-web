@@ -20,6 +20,13 @@
       text="Aventura original en català pel sistema lliure Cthulhu d100 o Vella Escola: Pulp!. Uns viatgers arriben de pas a Sant Martí de Lluçanés el 1926. Hi estaran un parell de dies abans de continuar amb el seu viatge. Els ramaders i grangers de la zona es queixen d'una estranya bèstia que està acabant amb els seus animals..."
       />
 
+    <ItemList 
+      src="/panta.png"
+      title="El pantà té gana"
+      type="aventura Cthulhu d100"
+      date="Properament disponible"
+      text="L’any 1962 el poble de Sant Romà va ser sepultat per l’aigua amb la creació del pantà de Sau. Des de llavors un lloc on hi havia hagut molta vida va passar a tenir un nou tipus de vida: aquàtica. Els primers peixos i mol·luscs van anar apareixent, enriquint l’aigua i dotant de vida un lloc al principi mort. Una cosa va portar a l’altra i un dia, no se sap quan, unes noves criatures es van començar a instal·lar al poble submarí. Eren entre peix i homínid i venien de terres llunyanes."
+      />
       
   </div>
 

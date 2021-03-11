@@ -13,7 +13,7 @@
       />
 
     <ItemList 
-      src="/ship.png"
+      src="/ship.jpg"
       title="Batten Bay"
       type="Novela"
       date="En fase d'escriptura"

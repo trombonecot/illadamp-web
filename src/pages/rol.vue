@@ -21,6 +21,15 @@
       />
 
     <ItemList 
+      src="https://64.media.tumblr.com/800ff08a552ddfc7914ff9dbfe8c55f7/tumblr_inline_ppn25gAFKZ1vrvilm_500.jpg"
+      title="Vella escola Pulp!"
+      type="joc de rol"
+      date="Abril 2021"
+      text="Joc d'ambientació pulp que et permetrà crear aventures en les quals arqueòlegs, cercadors de tresors, aventurers i altres personatges s’enfrontaran a personatges misteriosos i malvats. Traducció al català del joc de J. Ramón Balcells feta per Eduard Cot Ros. Maquetació de Grapas&mapas"
+      link="https://grapasymapas.com/pulp#catala"
+      />
+
+    <ItemList 
       src="/panta.png"
       title="El pantà té gana"
       type="aventura Cthulhu d100"

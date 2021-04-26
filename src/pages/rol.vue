@@ -16,8 +16,9 @@
       src="/bernat-revern.jpg"
       title="La maledicció d'en Bernat Revern"
       type="aventura Cthulhu d100"
-      date="Properament disponible"
-      text="Aventura original en català pel sistema lliure Cthulhu d100 o Vella Escola: Pulp!. Uns viatgers arriben de pas a Sant Martí de Lluçanés el 1926. Hi estaran un parell de dies abans de continuar amb el seu viatge. Els ramaders i grangers de la zona es queixen d'una estranya bèstia que està acabant amb els seus animals..."
+      date="abril 2021"
+      text="Aventura original en català pel sistema lliure Cthulhu d100. Uns viatgers arriben de pas a Sant Martí de Lluçanés el 1926. Hi estaran un parell de dies abans de continuar amb el seu viatge. Els ramaders i grangers de la zona es queixen d'una estranya bèstia que està acabant amb els seus animals... Inclós al fanzine Tirant lo Drac 2021."
+      link="https://tirant-lo-dau.itch.io/tirant-lo-drac"
       />
 
     <ItemList 

@@ -27,11 +27,27 @@ Supply: +5
 Momentum: +2/+10+/+2
 
 
-Fill d'un antic guerrer, en Hurkam, en Harui va veure els seus pares morir de febres quan era molt petit. Llavors va ser adoptat per uns granjers que el van cuidar com un fill més. Però ell mai va sentir-se gaire estimat. Caçador de professió, al seu assentament es conegut com un gran arquer i un home poc parlador. Es esprimetxat i no gaire fort. Molts temen, que com els seus pares, té gens massa débils per sobreiure a les Ironlands.
+Fill d'un antic guerrer, en Hurkam, en Harui va veure els seus pares morir de febres quan era molt petit. Llavors va ser adoptat per uns granjers que el van cuidar com un fill més. Però ell mai va sentir-se gaire estimat. Caçador de professió, al seu assentament es conegut com un gran arquer i un home poc parlador. Es esprimetxat i no gaire fort. Molts temen, que com els seus pares, té gens massa débils per sobreiure a les Ironlands. El seu germà, en Tramuk, més gran que ell, va escapar dels pares d'acollida i no en va saber mai més res. El seu anhel es recuperar el vincle familiar amb el seu germà, si encara es viu. Tothom li ha dit que no, que va morir segur. Ha caminat per tots els pobles que ha pogut i mai ha trobat rastre d'ell.
 
-Vows:
+Vows: 
+- Longterm: Trobar el seu germà Tramuk.
+- Shorterm: T'han parlat d'en endeví que viu a un poble, vols coneixer la seva màgia, si l'aprens pots entendre millor el món que et rodeja i potser trobar amb el teu germà.
 
+Bonds: 0-3:
+- Nurthmalak: poble de naixement, la gent et coneix, i tot i que et troben rar, t'acullen i et respecten. Tot i que pensen que ets un llunàtic.
 
+Debilities: 0
+
+Assets (3):
+- Archer
+- Herbalist
+- Hawk
+
+Equipment:
+- Capa de pells que el cobreix del tot i el permet dormir a la intemperie o amagar-se entre els fullatges de boscos densos
+- Arc tallat per ell mateix
+- Escut de fusta del seu pare, del clan Volotah, que porta penjat de l'esquena
+- Ganivet per treballar la caça
 
 # Quest idees
 - Una nau ha creuat tot l'oceà des del vell món per estavellar-se contra les roques del sud dels Ironlands. El nom de la nau 'Trhutynah'.
@@ -45,3 +61,10 @@ Vows:
 - Un estudiós està encaparrat que els habitants de les illes són vius, i no només en queden les runes i vol montar una expedició.
 - Ets testimoni de l'atac d'una béstia de proporcions legendaries. Ningú et creu i et declaren culpable de l'atac i l'assassinat.
 - En una assentament hi ha hagut morts misterioses des de fa setmanes.
+
+
+# Capitol 1
+
+En Hauri és un home jove, prim, barbut i sempre embolcallat amb una capa gruixuda d'ós. Té les mans fines tot i haver treballat tant anys a l'intemperie. La mirada profunda, sec, poc empàtica. Està dret, a prop d'uns arbres, a pocs centenars de metres de l'assentament de Nurthmalak. Té una presa a una desena de metres. El vent està calmat encara. Molt amunt en Jaggar vola amunt, un falcó que fa anys que t'acompanya a caçar. A casa, la Myrtle i en Walon, estan plantant patata, de les poques coses que creixen en aquesta terra. I segurament esperen ansioso el plat de carn que Hauri sempre és capaç de portar a casa. 
+Hi ha una llebre, no massa gran, però suficient com per alimentar aquest vespre als seus pares adoptius i a ell. El té a distància correcte. Aixeca l'arc. Apunta. La fletxa, silenciosa parteix l'aire, a temps perquè la llebre giri el cap, però no amb prou temps que pugui moure's. La fletxa entra sense directe al cau i envia la llebre tres metres més enllà sobre neu. Hi haurà sopar. 
+En Jaggar baixa com llamp del cel, recull la presa i la porta volant cap a la granja d'en Walon y la Myrtle. En Harui, impassiu guarda l'arc a l'esquena i camina, uns passos per baix i darrera de l'au.

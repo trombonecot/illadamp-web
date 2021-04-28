@@ -103,4 +103,11 @@ En Harui corre a les seves coses, es vesteix com pot , s'arma amb l'arc i torna 
 
 Vow: Acabar amb l'Erin.
 
+És de nit, i a la petita població de Nurthmalak, la majoria dormen, però un parell de camperols s'han llevat als sentir els crits i corredisses. Ningú ha vist a ningú, la nit no ajuda i no troba cap pista sobre cap a on pot haver anat l'Erin. Passa molta estona, es fa tard i el sol comença a sortir. Però res. No hi ha rastre de l'Erin. En Harui torna a casa i la Myrtle està molt enfadada amb ell. En Walon és mort i ell no ha sigut capaç de trobar el culpable.
+- No vols marxar a buscar el teu germà? No és això el que vols? Doncs marxa! Aquí no hi tens res a fer. No pots ni venjar la mort del teu pare. - exclama amb llàgrimes als ulls.
+En Harui vol plorar, però no pot. Sent estrés. El seu pare adopteu és mort al llit. La seva mare l'odia i ell no els culpa. No pot ni mantenir en vida els éssers que estima. Realment necessita marxar. Desterrar-se. I no tornar mai més. Però venjarà i matarà l'Erin. Ho farà.
+- Mare...
+- Marxa d'aqui! - diu amb els ulls vermells.
+Ell ho enten. Compren que la Myrtle sense en Walon, així que en Walon sense la Myrtle no tenien cap sentit. I ella així ho sent. No el perdonarà mai. Agafa les seves coses i surt per la porta. A l'arbre del davant hi ha en Jaggar que l'observa.
+Puja un turonet i es mira amunt i avall. Caps als boscos verds o la gran esplanada de gel?
 

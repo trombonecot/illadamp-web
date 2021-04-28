@@ -68,3 +68,39 @@ Equipment:
 En Hauri és un home jove, prim, barbut i sempre embolcallat amb una capa gruixuda d'ós. Té les mans fines tot i haver treballat tant anys a l'intemperie. La mirada profunda, sec, poc empàtica. Està dret, a prop d'uns arbres, a pocs centenars de metres de l'assentament de Nurthmalak. Té una presa a una desena de metres. El vent està calmat encara. Molt amunt en Jaggar vola amunt, un falcó que fa anys que t'acompanya a caçar. A casa, la Myrtle i en Walon, estan plantant patata, de les poques coses que creixen en aquesta terra. I segurament esperen ansioso el plat de carn que Hauri sempre és capaç de portar a casa. 
 Hi ha una llebre, no massa gran, però suficient com per alimentar aquest vespre als seus pares adoptius i a ell. El té a distància correcte. Aixeca l'arc. Apunta. La fletxa, silenciosa parteix l'aire, a temps perquè la llebre giri el cap, però no amb prou temps que pugui moure's. La fletxa entra sense directe al cau i envia la llebre tres metres més enllà sobre neu. Hi haurà sopar. 
 En Jaggar baixa com llamp del cel, recull la presa i la porta volant cap a la granja d'en Walon y la Myrtle. En Harui, impassiu guarda l'arc a l'esquena i camina, uns passos per baix i darrera de l'au.
+Fa mesos que no arriba cap foraster al assentament. En Harui espera sempre amb impaciència l'arribada de noticies de fora. Noticies del seu germà. 
+Sopen plegats, en silenci com sempre. És l'únic dels 5 fills de la Myrtle i en Walon que no és mort o desaparegut. L'únic i ell és l'adoptiu que tothom pren per débil. Els hiverns son durs a la granja.
+Algú pica a la porta. Això no passa mai. En Harui es mira en Walon. Els tres amb cara d'estranyesa. 
+- Qui hi ha? - crida la Myrtle amb la cullera plena de sopa de carn de llebre prop de la boca.
+- Tinc fred... Vinc de molt lluny - diu una veu tranquil·la.
+En Harui s'aixeca i empuña el ganivet de tallar carn amb una mà mentre fa pases cap a la porta. Els seus pares adoptius no li donen massa importància. La porta s'obre i es veu un home vell, prim, sense carn, pocs cabells blancs per tot arreu, barba minsa i llarga. Ulls blaus cremats pel sol.
+- Teniu molta sort de tenir de tot. El vent s'ha endut la meva casa. Tinc gana. - mira la Myrtle amb desig - Molta gana.
+En Harui s'acosta a ell amb to amenaçador.
+- No facis ni un pas més. Com et dius?
+- Erin... Teniu menjar de sobres...que us costa donar'men una mica. Vinc de molt lluny. Tinc fred. Tinc gana.
+- D'on vens?
+- De Shadowfen fosca de Etana. Al nord. Molt al nord. Una mica de menjar, si us plau.
+L'home sembla trencat. Inofesniu. En Walon s'acosta a ell i li dona un caçó de sopa, però no el convida a la taula, li dona un tamboret perqué pugui seure al costat de la porta.
+Els explica que un dels cap del poblat ha decidit aixecar-se en armes contra els altres assentaments de la comarca. Està reunint un exércit a base de esclaus, força, intimidació. Saqueja en tromba, viola i destrossa tot al seu pas. L'assentament de Shadowfen s'ha triplicat en població i té intencions de matar a tothom que es posi pel seu davant. Vol ser l'únic lider de les Ironlands. Es tracta d'en Beltran, el fort. La seva mà dreta és un vell shaman que diu que pot veure el passat, el futur i trobar qualsevol ànima que corri per les Ironlands amb els seus encanteris. Ningú pot escapar. Es tracta del Bruixot Khulan.
+- Veure el passat? Trobar una ànima? - diu en Harui.
+En Wolan el mira amb pena.
+- El teu germà és mort, Harui, no val la pena pedre la vida anant a buscar-lo. Aquí tens tot el que puguis necessitar.
+- El meu germà és mort.
+En Harui toca la fulla del ganivet que té a les mans i pensa en trobar el bruixot Khulan, potser ell li pot dir on es troba el seu germà.
+
+Vow: Trobar el bruixot Khulan i que li reveli on es troba el seu germà. A Shadowfen fosca de Etana.
+
+En Harui passa la nit descansant amb totes les coses preparades per marxar l'endemà al matí cap al nord, passant pels boscos verds. Descansa amb tranquil·litat, la il·luisó de després de moltes setmanes pode rtenir una pista sobre on pot estar el seu germà el fa dormir amb un somreiure a la cara. A mitja nit, però, un crit el desperta. S'aixeca de cop. Despullat corre. És un crit de la Myrtle. La troba al terra del menjador. Té sang a la cara, a les mans, està despullada. Brutalment despullada, amb les cames obertes i amb una mirada d'horror a la cara. S'ha pogut treure la mordaça que fins ara la mantenia en silenci.
+- Harui! -diu amb llàgrimes als ulls- En Wolan...és mort.
+En Harui corre cap a ella, l'abraça, l'ajuda a tapar-se. 
+- Què ha passat?
+De l'habitació on dormen els pares adoptius en surt una ferúm a mort. En Harui treu el cap. En Wolan descansa amb la gola degollada.
+- Ha estat aquest home... aquest vell.... només volia... m'ha....
+S'abraça a la seva mare, mentre plora.
+- Cap on ha anat?
+- Ha fugit! No ho sé, quan he fet el crit ha sortit per la porta! En Walon és mort! En Walon és mort!
+En Harui corre a les seves coses, es vesteix com pot , s'arma amb l'arc i torna a agafar el seu ganivet. Posa la mà sobre la fulla. Les prioritats són les prioritats. El seu cos demana venjança.
+
+Vow: Acabar amb l'Erin.
+
+

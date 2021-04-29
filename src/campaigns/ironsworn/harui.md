@@ -31,6 +31,7 @@ Fill d'un antic guerrer, en Hurkam, en Harui va veure els seus pares morir de fe
 
 Vows: 
 - Longterm: Trobar el seu germà Tramuk.
+    - Milestone: convençer al bruixot de buscar al seu germà
 - Shorterm: T'han parlat d'en endeví que viu a un poble, vols coneixer la seva màgia, si l'aprens pots entendre millor el món que et rodeja i potser trobar amb el teu germà.
 
 Bonds: 0-3:
@@ -89,6 +90,8 @@ En Wolan el mira amb pena.
 En Harui toca la fulla del ganivet que té a les mans i pensa en trobar el bruixot Khulan, potser ell li pot dir on es troba el seu germà.
 
 Vow: Trobar el bruixot Khulan i que li reveli on es troba el seu germà. A Shadowfen fosca de Etana.
+Milestones: viatjar al nord, trobar algú per fer el passatge del gran riu, creuar les muntanys, apropar-se a cort, coneixer al bruixot, fer favor pel bruixot, convençer al bruixot de buscar al seu germà
+
 
 En Harui passa la nit descansant amb totes les coses preparades per marxar l'endemà al matí cap al nord, passant pels boscos verds. Descansa amb tranquil·litat, la il·luisó de després de moltes setmanes pode rtenir una pista sobre on pot estar el seu germà el fa dormir amb un somreiure a la cara. A mitja nit, però, un crit el desperta. S'aixeca de cop. Despullat corre. És un crit de la Myrtle. La troba al terra del menjador. Té sang a la cara, a les mans, està despullada. Brutalment despullada, amb les cames obertes i amb una mirada d'horror a la cara. S'ha pogut treure la mordaça que fins ara la mantenia en silenci.
 - Harui! -diu amb llàgrimes als ulls- En Wolan...és mort.
@@ -102,6 +105,7 @@ S'abraça a la seva mare, mentre plora.
 En Harui corre a les seves coses, es vesteix com pot , s'arma amb l'arc i torna a agafar el seu ganivet. Posa la mà sobre la fulla. Les prioritats són les prioritats. El seu cos demana venjança.
 
 Vow: Acabar amb l'Erin.
+Milestones: trobar on ha anat, matarlo
 
 És de nit, i a la petita població de Nurthmalak, la majoria dormen, però un parell de camperols s'han llevat als sentir els crits i corredisses. Ningú ha vist a ningú, la nit no ajuda i no troba cap pista sobre cap a on pot haver anat l'Erin. Passa molta estona, es fa tard i el sol comença a sortir. Però res. No hi ha rastre de l'Erin. En Harui torna a casa i la Myrtle està molt enfadada amb ell. En Walon és mort i ell no ha sigut capaç de trobar el culpable.
 - No vols marxar a buscar el teu germà? No és això el que vols? Doncs marxa! Aquí no hi tens res a fer. No pots ni venjar la mort del teu pare. - exclama amb llàgrimes als ulls.
@@ -109,5 +113,6 @@ En Harui vol plorar, però no pot. Sent estrés. El seu pare adopteu és mort al
 - Mare...
 - Marxa d'aqui! - diu amb els ulls vermells.
 Ell ho enten. Compren que la Myrtle sense en Walon, així que en Walon sense la Myrtle no tenien cap sentit. I ella així ho sent. No el perdonarà mai. Agafa les seves coses i surt per la porta. A l'arbre del davant hi ha en Jaggar que l'observa.
-Puja un turonet i es mira amunt i avall. Caps als boscos verds o la gran esplanada de gel?
+Puja un turonet i es mira amunt i avall. Caps als boscos verds o la gran esplanada de gel? Realment aquell Erin li havia explicat la veritat, abans de matar al seu pare i violar a la seva mare?
+Havia d'anar cap a la gran esplanada de gel, l'únic lloc on aquell home podia haver marxat. Allà els vents eren de ratxe inmenses i era fàcil quedar-se atrapat i ser emportat quilometres enllà cap a les terres desfetes, d'on ningú en tornava.
 

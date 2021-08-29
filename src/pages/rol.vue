@@ -4,12 +4,12 @@
     <h1>Rol</h1>
 
     <ItemList 
-      src="/crashpanda.png"
-      title="Crash Pandas"
-      type="joc de rol"
-      date="desembre 2020"
-      text="Genial sistema per qui tingui ganes d'un divertit one-shot sobre ossos rentadors en una carrera de cotxes il·legals a Los Angeles! Escrit per Grant Howitt. Traducció al català feta per Eduard Cot Ros."
-      link="/crash-pandas-cat.pdf"
+      src="https://d1vzi28wh99zvq.cloudfront.net/images/2/369090.jpg"
+      title="Teixint onades"
+      type="aventura la Crida de Cthulhu 7a edició"
+      date="Agost 2021"
+      text="1925. Vilafany, Baix Camp. Són les dotze de la nit. Una petita embarcació de pesca navega a poc a poc amb la xarxa tirada al mar. Els pescadors estan feinejant, amb constància però de manera tranquil·la. Molt a prop seu s'està a punt de despertar un caos que fa molts de temps que és adormit."
+      link="https://www.drivethrurpg.com/product/369090/CATALAN-Teixint-onades"
       />
     
     <ItemList 
@@ -28,6 +28,15 @@
       date="Abril 2021"
       text="Joc d'ambientació pulp que et permetrà crear aventures en les quals arqueòlegs, cercadors de tresors, aventurers i altres personatges s’enfrontaran a personatges misteriosos i malvats. Traducció al català del joc de J. Ramón Balcells feta per Eduard Cot Ros. Maquetació de Grapas&mapas"
       link="https://grapasymapas.com/pulp#catala"
+      />
+
+    <ItemList 
+      src="/crashpanda.png"
+      title="Crash Pandas"
+      type="joc de rol"
+      date="desembre 2020"
+      text="Genial sistema per qui tingui ganes d'un divertit one-shot sobre ossos rentadors en una carrera de cotxes il·legals a Los Angeles! Escrit per Grant Howitt. Traducció al català feta per Eduard Cot Ros."
+      link="/crash-pandas-cat.pdf"
       />
 
     <ItemList 

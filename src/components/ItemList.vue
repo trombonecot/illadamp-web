@@ -54,6 +54,7 @@ export default {
 
 .imatge {
   min-width: 250px;
+  max-width: 250px;
 }
 
 .imatge img {

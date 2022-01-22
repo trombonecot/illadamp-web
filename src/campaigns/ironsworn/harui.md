@@ -116,4 +116,5 @@ Ell ho enten. Compren que la Myrtle sense en Walon, així que en Walon sense la 
 Puja un turonet i es mira amunt i avall. Caps als boscos verds o la gran esplanada de gel? Realment aquell Erin li havia explicat la veritat, abans de matar al seu pare i violar a la seva mare?
 Havia d'anar cap a la gran esplanada de gel, l'únic lloc on aquell home podia haver marxat. Allà els vents eren de ratxe inmenses i era fàcil quedar-se atrapat i ser emportat quilometres enllà cap a les terres desfetes, d'on ningú en tornava.
 Va deixar que en Jaggar s'elevés per sobre del seu cap però allà no hi havia cap rastre de l'enemic, d'aquell home. Camina durant hores i dies per la gran estep gelada fins que se n'adona que s'ha perdut. No pot fer res més que intentar fer sortir-ne. Però no sap com. Està perdut, la nit cau i s'està congenlant. I no té cap rastre d'aquest assassí.
-
+Va trobar un racó amagat per toancar-se i dormir entre les roques, va fer una foguera i va dormir unes hores, mentre reposava la ment i pensava en el que faria  apartir de demà.
+L'endemà al matí va mirar amunt i el dia era més despejat. Aquell desgraciat no podia haver anat tant lluny amb la tempesta de la nit anterior. Va tornar a elevar en Jaggar per veure si podia veure alguna pista.

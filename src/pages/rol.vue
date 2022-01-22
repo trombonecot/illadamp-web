@@ -4,6 +4,15 @@
     <h1>Rol</h1>
 
     <ItemList 
+      src="/images/7600320516_5005d9dd80_b.jpeg"
+      title="Flight 719"
+      type="escenari introductori per a Delta Green (en anglès)"
+      date="Novembre 2021"
+      text="An ancient artifact can trigger many things, more if it’s floating in the sky."
+      link="https://fairfieldproject.fandom.com/wiki/Flight_719"
+      />
+    
+    <ItemList 
       src="https://d1vzi28wh99zvq.cloudfront.net/images/2/369090.jpg"
       title="Teixint onades"
       type="aventura la Crida de Cthulhu 7a edició"
@@ -13,7 +22,7 @@
       />
     
     <ItemList 
-      src="/bernat-revern.jpg"
+      src="/images/bernat-revern.jpg"
       title="La maledicció d'en Bernat Revern"
       type="aventura Cthulhu d100"
       date="abril 2021"
@@ -31,7 +40,7 @@
       />
 
     <ItemList 
-      src="/crashpanda.png"
+      src="/images/crashpanda.png"
       title="Crash Pandas"
       type="joc de rol"
       date="desembre 2020"
@@ -40,7 +49,7 @@
       />
 
     <ItemList 
-      src="/panta.png"
+      src="/images/panta.png"
       title="El pantà té gana"
       type="aventura Cthulhu d100"
       date="Properament disponible"

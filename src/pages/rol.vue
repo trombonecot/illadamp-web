@@ -8,7 +8,7 @@
       title="Flight 719"
       type="escenari introductori per a Delta Green (en anglès)"
       date="Novembre 2021"
-      text="An ancient artifact can trigger many things, more if it’s floating in the sky."
+      text="An ancient artifact can trigger many things, more if it’s floating in the sky. Escenari participant al concurs d'escenaris curts de fairfieldproject."
       link="https://fairfieldproject.fandom.com/wiki/Flight_719"
       />
     

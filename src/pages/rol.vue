@@ -4,7 +4,7 @@
     <h1>Rol</h1>
 
     <ItemList 
-      src="/images/7600320516_5005d9dd80_b.jpeg"
+      src="/images/avio.png"
       title="Flight 719"
       type="escenari introductori per a Delta Green (en anglès)"
       date="Novembre 2021"
